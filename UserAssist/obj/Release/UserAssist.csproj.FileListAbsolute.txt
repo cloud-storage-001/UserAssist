@@ -1,0 +1,8 @@
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\Release\UserAssist.csprojAssemblyReference.cache
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\Release\UserAssist.frmExplain.resources
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\Release\UserAssist.frmHighlight.resources
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\Release\UserAssist.frmAbout.resources
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\Release\UserAssist.frmUserAssist.resources
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\Release\UserAssist.Properties.Resources.resources
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\Release\UserAssist.csproj.GenerateResource.cache
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\Release\UserAssist.csproj.CoreCompileInputs.cache

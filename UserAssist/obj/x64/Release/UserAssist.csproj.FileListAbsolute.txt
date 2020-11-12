@@ -1,0 +1,17 @@
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\bin\x64\Release\UserAssist.exe.config
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\bin\x64\Release\UserAssist.exe.manifest
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\bin\x64\Release\UserAssist.application
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\bin\x64\Release\UserAssist.exe
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\bin\x64\Release\UserAssist.pdb
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\x64\Release\UserAssist.csprojAssemblyReference.cache
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\x64\Release\UserAssist.frmExplain.resources
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\x64\Release\UserAssist.frmHighlight.resources
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\x64\Release\UserAssist.frmAbout.resources
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\x64\Release\UserAssist.frmUserAssist.resources
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\x64\Release\UserAssist.Properties.Resources.resources
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\x64\Release\UserAssist.csproj.GenerateResource.cache
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\x64\Release\UserAssist.csproj.CoreCompileInputs.cache
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\x64\Release\UserAssist.exe.manifest
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\x64\Release\UserAssist.application
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\x64\Release\UserAssist.exe
+D:\Users\foyou\HBuilderX\REGEDIT\UserAssist\UserAssist\obj\x64\Release\UserAssist.pdb
